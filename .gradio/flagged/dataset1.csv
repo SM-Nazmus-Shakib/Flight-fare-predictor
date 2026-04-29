@@ -1,0 +1,2 @@
+Airline,Source City,Destination City,Departure Time,Arrival Time,Class,Duration (Hours),Days Left Until Flight,Stops,output,timestamp
+SpiceJet,Kolkata,Delhi,Morning,Afternoon,Business,3,4,Zero,Estimated Fare: ₹32567.84,2026-04-29 16:19:24.217064
